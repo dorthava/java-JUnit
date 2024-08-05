@@ -1,2 +1,2 @@
-# repository-template
-Template repository for all the projects.
+# java-JUnit
+Exercises for learning testing technology with JUnit
